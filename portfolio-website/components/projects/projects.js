@@ -12,7 +12,7 @@ export function loadProjects() {
 
   // Project 1 with link
   const projectLink1 = document.createElement('a')
-  projectLink1.href = 'https://example.com/project1' // URL for Project 1
+  projectLink1.href = 'https://dancing-tartufo-b3487c.netlify.app/' // URL for Project 1
   projectLink1.target = '_blank' // Opens in a new tab
   const projectImage1 = document.createElement('img')
   projectImage1.src =
@@ -24,7 +24,7 @@ export function loadProjects() {
 
   // Project 2 with link
   const projectLink2 = document.createElement('a')
-  projectLink2.href = 'https://example.com/project2' // URL for Project 2
+  projectLink2.href = 'https://elaborate-marigold-009cf6.netlify.app/' // URL for Project 2
   projectLink2.target = '_blank' // Opens in a new tab
   const projectImage2 = document.createElement('img')
   projectImage2.src =
@@ -36,7 +36,7 @@ export function loadProjects() {
 
   // Project 3 with link
   const projectLink3 = document.createElement('a')
-  projectLink3.href = 'https://example.com/project3' // URL for Project 3
+  projectLink3.href = 'https://super-tulumba-e02128.netlify.app/' // URL for Project 3
   projectLink3.target = '_blank' // Opens in a new tab
   const projectImage3 = document.createElement('img')
   projectImage3.src =
